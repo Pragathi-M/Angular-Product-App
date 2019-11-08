@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+.navbar{
+    color:white;
+    font-size:25px;
+}
+
+img{
+    height: 370px;
+    width:98%;
+    padding:20px;
+}
+.card{
+    float:left;
+    clear:none;
+    margin:40px;
+    padding:10px;
+}
+footer{
+   background-color: darkgray;
+   text-align: center;
+}
